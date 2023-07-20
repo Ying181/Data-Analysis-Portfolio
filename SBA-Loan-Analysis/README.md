@@ -1,4 +1,6 @@
 SBA Loan Default Rate Analysis
+
 The Small Business Administration (SBA) plays a crucial role in helping small businesses gain access to loans through its guarantee programs. However, loan defaults can pose significant risks to banks and borrowers, even with SBA assistance.
 In this presentation, we will analyze key factors affecting small business loan default rates. Through data analysis, we will examine the impact of industry, state-level economic factors, loan size, real estate backing, SBA guarantee, and business age on loan default rates. By gaining insights into these factors, banks can make informed decisions and implement risk mitigation measures to support responsible lending practices and promote sustainable small business lending.
+
 Technology Use: Python and Tableau
